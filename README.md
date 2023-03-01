@@ -1,4 +1,4 @@
-![Header](https://github.com/Swayka/swayka/blob/main/assets/-16001.jpg)
+![Header]()
 
 About me
 
