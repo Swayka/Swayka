@@ -15,4 +15,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Nata_niksi)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSwayka=anuraghazra&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Swayka=anuraghazra&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
