@@ -5,6 +5,8 @@
 Я начинающий frontend developer.  
 Хочу развиваться в этой профессии.  
 
-Language
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
-Follow me
+## Language
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
+![CSS]
+
+## Follow me
