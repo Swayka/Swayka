@@ -14,4 +14,4 @@
 ## Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Nata_niksi)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swayka&show_icons=true)](https://github.com/Swayka/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swayka&theme=gruvbox&show_icons=true)](https://github.com/Swayka/github-readme-stats)
