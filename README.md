@@ -12,4 +12,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=2c7eed)
 
 ## Контакты:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=1d00fe)](https://t.me/Nata_niksi)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Nata_niksi)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSwayka=anuraghazra&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
