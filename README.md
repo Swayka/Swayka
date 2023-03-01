@@ -7,8 +7,9 @@
 
 ## Мой стэк:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
-![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=47C5FB)
+![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=00fce3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=2c7eed)
 
 ## Контакты:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=1d00fe)](https://t.me/Nata_niksi)
