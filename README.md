@@ -3,7 +3,6 @@
 ## Обо мне:
 Привет! Меня зовут Наталья.  
 Я начинающий front-end developer.  
-Хочу развиваться в этой профессии.  
 
 ## Мой стэк:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
